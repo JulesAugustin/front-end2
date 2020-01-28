@@ -1,0 +1,57 @@
+*{box-sizing: border-box;}
+
+.titre{
+ color: goldenrod;
+ text-align: center;
+ border-style: double;
+ border-color: solid black 2px;
+ background-color:ivory;
+}
+
+.resume{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    text-align: justify;
+    font-style: normal;
+    border:goldenrod solid 1px;
+    border-radius: 1%;
+    border-collapse: collapse;
+   
+}
+
+.container{
+    display: flex;
+    font-family: sans-serif;
+    margin-top: 2px;
+}
+
+.eiffel{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+    border-radius: 1%;
+    color:black;
+    
+
+}
+.restaurant{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+}
+
+.ailleurs{
+    text-align: justify;
+
+}
+
+.ici{
+    text-align: justify;
+}
+
+.musique{
+    background-color: goldenrod;
+    
+}
+
+
+

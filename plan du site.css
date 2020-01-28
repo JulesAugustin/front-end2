@@ -1,0 +1,32 @@
+
+#container{
+    display: flex;
+    justify-content: space-around;
+}
+.titre{
+    background-color: goldenrod;
+    color: ivory;
+    font-family: serif;
+    text-align: center;
+    border-style: double;
+}
+.border{
+    width: 50px;
+}
+.jet{
+    width: 50px;
+}
+.jet{
+    width: 50px;
+}
+
+/*.paragraphe{
+    display: flex;
+    flex-direction: wrap;
+    font-weight: 800;
+}*/
+
+#jet{
+    width: 50px;
+    padding-left: 10px;
+}
